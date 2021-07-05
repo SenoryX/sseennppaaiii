@@ -5,4 +5,5 @@
 - 📫 How to reach me: Twitter: @sseennppaaiii, Discord: SenPaii#8809
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: I have coded many Discord Bots...
+- This Repository is for my frist Wesite.
 
